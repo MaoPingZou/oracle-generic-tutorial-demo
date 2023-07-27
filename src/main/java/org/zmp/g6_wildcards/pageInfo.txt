@@ -1,0 +1,5 @@
+Oracle JavaSE 官方文档地址：https://docs.oracle.com/javase/tutorial/java/generics/wildcards.html
+
+在范型代码中，? 称为通配符，代表一种未知的类型。
+通配符可用于多种情况：作为参数、字段或局部变量的类型；有时作为返回类型（尽管更具体的编程实践更好）。
+通配符从不用作泛型方法调用、泛型类实例创建或超类型的类型参数。
